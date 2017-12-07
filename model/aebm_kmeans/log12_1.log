@@ -1,0 +1,15 @@
+Fri, 01 Dec 2017 09:34:15 Ex_AEBM_Clustering_H_based.py[line:98] INFO Kmeans starts:2017-12-01 09:34:15
+Fri, 01 Dec 2017 09:34:15 Ex_AEBM_Clustering_H_based.py[line:101] INFO {'umist': 'umist'}
+Fri, 01 Dec 2017 09:34:15 Ex_AEBM_Clustering_H_based.py[line:104] INFO {'pie': 10, 'orl': 40, 'ar': 10, 'coil': 20, 'umist': 20, 'yaleB': 38, 'usps': 10, 'fashion_mnist': 10, 'olivetti': 40, 'yale': 15, 'alpha_digit': 36, 'mnist': 10}
+Fri, 01 Dec 2017 09:34:15 Ex_AEBM_Clustering_H_based.py[line:111] INFO ======================================================
+Fri, 01 Dec 2017 09:34:15 Ex_AEBM_Clustering_H_based.py[line:112] INFO umist:umist
+Fri, 01 Dec 2017 12:36:45 Ex_AEBM_Clustering_H_based.py[line:126] INFO acc_all_results:
+Fri, 01 Dec 2017 12:36:45 Ex_AEBM_Clustering_H_based.py[line:127] INFO [ 0.41913043  0.38434783  0.39304348  0.39478261  0.39304348  0.39652174
+  0.43478261  0.42434783  0.40869565  0.42434783]
+Fri, 01 Dec 2017 12:36:45 Ex_AEBM_Clustering_H_based.py[line:128] INFO nmi_all_results:
+Fri, 01 Dec 2017 12:36:45 Ex_AEBM_Clustering_H_based.py[line:129] INFO [ 0.59310579  0.57334266  0.58465534  0.58949397  0.58663978  0.58257418
+  0.61513554  0.60803881  0.60311657  0.60561832]
+Fri, 01 Dec 2017 12:36:45 Ex_AEBM_Clustering_H_based.py[line:139] INFO ======================================================
+Fri, 01 Dec 2017 12:36:45 Ex_AEBM_Clustering_H_based.py[line:142] INFO Results_Kmeans_Clustering:
+Fri, 01 Dec 2017 12:36:45 Ex_AEBM_Clustering_H_based.py[line:143] INFO {'umist': {'acc': 0.40730434782608693, 'std_nmi': 0.012575668986285322, 'std_acc': 0.016384787079393229, 'std_pur': 0.015997164209944355, 'pur': 0.4700869565217391, 'nmi': 0.59417209555986217}}
+Fri, 01 Dec 2017 12:36:45 Ex_AEBM_Clustering_H_based.py[line:150] INFO Clustering experiments on data sets finished successfully!@2017-12-01 12:36:45
